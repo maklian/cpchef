@@ -1,6 +1,6 @@
-default['cloudpassage']['agent_key'] = 'abc123'
+default['cloudpassage']['agent_key'] = '5eb42703aaf007b796067c07bae787e6'
 default['cloudpassage']['grid_url'] = 'https://grid.cloudpassage.com/grid'
-default['cloudpassage']['linux_agent_version'] = '3.6.6'
+default['cloudpassage']['linux_agent_version'] = '3.7.5'
 # If you define a proxy host, you must also define the port!
 default['cloudpassage']['proxy_host'] = nil
 default['cloudpassage']['proxy_port'] = nil
